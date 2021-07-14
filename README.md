@@ -14,7 +14,9 @@
 
 :outbox_tray: Metas 2021: Capacitar-me mais profissionalmente.
 
- 
+
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 
 ## Sobre mim
 
