@@ -15,7 +15,7 @@
 :outbox_tray: Metas 2021: Capacitar-me mais profissionalmente.
 
 
- ![Caio Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiovictorvale&show_icons=true&theme=radical)
+ ![Caio Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiovale1921&show_icons=true&theme=radical)
 
 
 ## Sobre mim
