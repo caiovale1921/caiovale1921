@@ -1,22 +1,22 @@
-# Welcome👋!
+# Olá👋!
 
  
 
-## I'm Caio Victor!
+## Eu sou o Caio Victor!
 
  
 
-:computer: I'm Fullstack Developer!
+:computer: Sou desenvolvedor Fullstack e Desktop!
 
-:house_with_garden: I’m from Brazil.
+:house_with_garden: Moro em Volta Redonda/RJ - Brasil.
 
-:books: I’m currently learning everything.
+:books: Atualmente estou me especializando em C#.
 
-:outbox_tray: 2021 Goals: Empower myself more professionally.
+:outbox_tray: Metas 2021: Capacitar-me mais profissionalmente.
 
  
 
-## About me
+## Sobre mim
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/caiovale1921)](https://github.com/caiovale1921)
 
