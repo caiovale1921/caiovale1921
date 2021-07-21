@@ -1,34 +1,34 @@
-# Olá👋!
+<p align="center">
+  <h1>Olá👋, me chamo Caio!</h1>
+
+
+
+ :computer: Sou desenvolvedor Fullstack Web e Desktop!
+
+ :house_with_garden: Moro em Volta Redonda/RJ - Brasil.
+
+ :books: Atualmente estou me especializando em C#.
+
+ :outbox_tray: Metas 2021: Capacitar-me mais profissionalmente.
+
+
+  ![Meus stutus](https://github-readme-stats.vercel.app/api?username=caiovale1921&show_icons=true&theme=radical)
+
+
+
+
+ ## Sobre mim
+
+ [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/caiovale1921)](https://github.com/caiovale1921) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caio-victor-820a981a6/)](https://www.linkedin.com/in/caio-victor-820a981a6/)
 
  
 
-## Eu sou o Caio Victor!
-
- 
-
-:computer: Sou desenvolvedor Fullstack e Desktop!
-
-:house_with_garden: Moro em Volta Redonda/RJ - Brasil.
-
-:books: Atualmente estou me especializando em C#.
-
-:outbox_tray: Metas 2021: Capacitar-me mais profissionalmente.
 
 
- ![Caio Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiovale1921&show_icons=true&theme=radical)
+ - Thanks for visiting.
 
-
-## Sobre mim
-
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/caiovale1921)](https://github.com/caiovale1921)
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caio-victor-820a981a6/)](https://www.linkedin.com/in/caio-victor-820a981a6/)
-
-
-
-- Thanks for visiting.
-
-- Enjoy it!! o/
+ - Enjoy it!! \o/
+ </p>
 <!--
 **caiovale1921/caiovale1921** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
