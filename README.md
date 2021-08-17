@@ -45,7 +45,6 @@ public class Dev {
 
 #### Fale comigo!
 
-[![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logoColor=white:https://api.whatsapp.com/send?l=pt-BR&phone=5524999549856)][whatsapp]
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logoColor=white:mailto:caio1921vic@gmail.com)][gmail]
 [![Telegram Badge](	https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logoColor=white:https://t.me/Eu_Nao_Sei)][telegram]
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white:https://www.linkedin.com/in/caio-victor-820a981a6/)][linkedin]
