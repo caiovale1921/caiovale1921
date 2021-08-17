@@ -3,17 +3,17 @@
 Sou desenvolvedor Fullstack Web e Desktop, e moro em Volta Redonda/RJ - Brasil.
 Atualmente estou me especializando em C# e desejo me capacitar mais profissionalmente.
 
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
+## <img width="45" alt="about" src="https://www.pngkit.com/png/full/357-3573451_many-programmers-know-at-least-2-or-3.png"> Mais sobre mim
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-```kotlin
-object Dev {
- val name = "Caio Victor Vale"
- val acknowledgements = "Web and Desktop"
+```csharp
+public class Dev {
+ public string Name = "Caio Victor Vale";
+ public string Acknowledgements = "Web and Desktop";
  
- val primarySkillset = "FullstackDev"
- val languages = listOf("C#", "Python", "Java", "C") 
+ public string PrimarySkillset = "FullstackDev";
+ public List<string> Languages = listOf("C#", "Python", "Java", "C") ;
 
 }
 ```
