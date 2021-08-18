@@ -1,7 +1,6 @@
 ### Olá devs 👋
 
-Sou desenvolvedor Fullstack Web e Desktop, e moro em Volta Redonda/RJ - Brasil.
-Atualmente estou me especializando em C# e desejo me capacitar mais profissionalmente.
+I'm a Full Stack Web and Desktop developer. I'm currently specializing in C# and I want to train myself more professionally.
 
 ## <img width="45" alt="about" src="https://www.pngkit.com/png/full/357-3573451_many-programmers-know-at-least-2-or-3.png"> Mais sobre mim
 
