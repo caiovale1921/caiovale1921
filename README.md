@@ -33,7 +33,7 @@ public class Dev {
 ## **Estatísticas do GitHub**
 
 <a href="https://github.com/caiovale1921">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=caiovale1921&show_icons=true&theme=dracula&line_height=27" alt="**Caio** github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=caiovale1921&show_icons=true&theme=dracula&line_height=27" alt="**GitStatus** github stats"/>
 </a>
 
 [whatsapp]: https://api.whatsapp.com/send?l=pt-BR&phone=5524999549856
