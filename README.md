@@ -12,7 +12,7 @@ public class Dev {
  public string Acknowledgements = "Web and Desktop";
  
  public string PrimarySkillset = "FullstackDev";
- public List<string> Languages = listOf("C#", "Python", "Java", "C") ;
+ public List<string> Languages = listOf("C#", "Python", "C", "Java") ;
 
 }
 ```
