@@ -2,7 +2,7 @@
 
 I'm a Full Stack Web and Desktop developer. I'm currently specializing in C# and I want to train myself more professionally.
 
-## <img width="45" alt="about" src="https://www.pngkit.com/png/full/357-3573451_many-programmers-know-at-least-2-or-3.png"> Mais sobre mim
+## <img width="45" alt="about" src="https://www.pngkit.com/png/full/357-3573451_many-programmers-know-at-least-2-or-3.png"> More about me
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
@@ -17,7 +17,7 @@ public class Dev {
 }
 ```
 
-## **Linguagens e Ferramentas:**  
+## **Languages and Tools:**  
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png"></code>
@@ -30,7 +30,7 @@ public class Dev {
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
-## **Estatísticas do GitHub**
+## **GitHub Statistics**
 
 <a href="https://github.com/caiovale1921">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=caiovale1921&show_icons=true&theme=dracula&line_height=27" alt="**GitStatus** github stats"/>
@@ -42,7 +42,7 @@ public class Dev {
 [linkedin]: https://www.linkedin.com/in/caio-victor-820a981a6/
 <br>
 
-#### Fale comigo!
+## Talk to me!
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logoColor=white:mailto:caio1921vic@gmail.com)][gmail]
 [![Telegram Badge](	https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logoColor=white:https://t.me/Eu_Nao_Sei)][telegram]
