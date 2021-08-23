@@ -1,4 +1,4 @@
-### Olá devs 👋
+### Hello devs 👋
 
 I'm a Full Stack Web and Desktop developer. I'm currently specializing in C# and I want to train myself more professionally.
 
